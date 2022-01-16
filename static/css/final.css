@@ -1,0 +1,34 @@
+main{
+    background-color: rgb(234, 238, 237);
+}
+#hero-content p{
+    margin-top: -110px;
+}
+
+#title{
+    text-align: center;
+}
+
+#result{
+    padding: 50px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+#pred{
+    background-color: rgb(33,93,97);
+    padding: 50px;
+    margin-left: 20%;
+    border-radius: 50%;
+}
+
+#pred h3{
+    color: silver;
+    text-align: center;
+    padding: 5px;
+}
+
+#pred p{
+    text-align: center;
+    color: rgb(234, 238, 237);
+}

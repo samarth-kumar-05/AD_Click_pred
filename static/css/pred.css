@@ -1,0 +1,84 @@
+main{
+    background-color: rgb(234, 238, 237);
+}
+
+#hero-content p{
+    margin-top: -110px;
+}
+
+#predict{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    font-size: 24px;
+    margin-top: 15px;
+}
+
+#predict p{
+    font-family: inherit;
+    color: rgb(33,93,97);
+}
+
+#description{
+   width: 50%;
+   margin-left: 10%;
+   padding: 20px;
+}
+
+.steps{
+    background-color: rgb(169, 216, 204);
+    width: 450px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.steps h3{
+    text-align: center;
+    font-size: 32px;
+    color: rgb(246,144,112);
+    background-color: teal;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.steps label{
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left: -40px;
+}
+
+.steps input{
+    width: 100px;
+    margin-left: 150px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+}
+
+#s2{
+    margin-left: 80%;
+}
+
+#btn{
+    margin-left: 80%;
+    margin-top: 10%;
+}
+
+#btn button{
+    padding: 10px;
+    background-color: rgb(33,93,97);
+    color: rgb(234, 238, 237);
+    font-size: 14px;
+    border-radius: 10px;
+    width: 120px;
+}
+
+#btn button:hover{
+    background-color: rgb(246,144,112);
+    color: rgb(33,93,97);
+}
+
+
